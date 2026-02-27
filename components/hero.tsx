@@ -15,7 +15,7 @@ export const Hero : React.FC<HeroProps>= ({id}) => {
         <div className="flex flex-wrap">
           <div className="w-full lg:w-[35%] self-end px-4 ">
             <div className="relative mt-10 mb-10 lg:top lg:mt-0 xl:left-6 md:right-0">
-              <img src="./hilalahmadmujaddid.jpg" alt="not showing" className="max-w-full mx-auto rounded-full overflow-hidden bg-gradient-to-r lg:w-[500px] w-[310px]  from-green-500 bg-lime-400 to-emerald-400 " data-aos-delay='400' data-aos='fade-up' />
+              <img src="./hilalahmadmujaddid.jpeg" alt="not showing" className="max-w-full mx-auto rounded-full overflow-hidden bg-gradient-to-r lg:w-[500px] w-[310px]  from-green-500 bg-lime-400 to-emerald-400 " data-aos-delay='400' data-aos='fade-up' />
               <div className="absolute top-2 -z-10 bg-green-500/30 h-[410px] max-w-[500px] mx-auto inset-8 blur-3xl rounded-full"></div>
             </div>
           </div>
@@ -27,7 +27,7 @@ export const Hero : React.FC<HeroProps>= ({id}) => {
               Junior <span className="font-bold lg:block text-transparent bg-clip-text bg-gradient-to-r from-green-400 via-blue-500 to-green-200" data-aos="fade-right">Web Developer</span>
               <span className="text-green-400 font-bold lg:block" data-aos="fade-right"> & Student</span>
             </h2>
-            <Link data-aos="fade-right" href="#about"className="lg:border-4 border-2 rounded-tr-xl rounded-bl-xl font-semibold text-primary text-lg border-primary px-8 py-3 lg:text-2xl hover:bg-secondary transition duration-300 ease-out hover:text-white">
+            <Link data-aos="fade-right" href="#about"className="lg:border-4 border-2 rounded-tr-xl rounded-bl-xl font-semibold text-green-400 text-lg border-green-400 px-8 py-3 lg:text-2xl hover:bg-green-400 transition duration-300 ease-out hover:text-white">
               About Me
             </Link>
           </div>

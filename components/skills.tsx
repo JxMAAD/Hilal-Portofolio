@@ -25,6 +25,9 @@ export const Skills = () => {
                   <a href="https://www.w3schools.com/js/" className="py-5 max-w-10 rounded-md overflow-hidden" target="_blank">
                     <img src="./Unofficial_JavaScript_logo_2.svg.png" alt="javascript" />
                   </a>
+                  <a href="https://www.typescriptlang.org//" className="py-5 max-w-10 rounded-md overflow-hidden" target="_blank">
+                    <img src="./ts-logo.png" alt="typescript"/>
+                  </a>
                 </div>
                 <h1 className="font-extrabold text-3xl">Front <span className="text-green-400">end</span></h1>
                 <h2 className="max-w-xl text-md font-medium leading-[1.830]">
@@ -45,6 +48,9 @@ export const Skills = () => {
                   </a>
                   <a href="https://www.php.net/" className="py-3 max-w-16" target="_blank">
                     <img src="./php-logo-removebg-preview.png" alt="php" />
+                  </a>
+                  <a href="https://expressjs.com/" className="py-3 max-w-16" target="_blank">
+                    <img src="./ex-logo.png" alt="express" />
                   </a>
                 </div>
                 <h1 className="font-extrabold text-3xl">Back <span className="text-green-400">end</span></h1>
@@ -71,6 +77,9 @@ export const Skills = () => {
                   </a>
                   <a href="https://git-scm.com/" className="py-4 max-w-12" target="_blank">
                     <img src="./git-logo-removebg-preview.png" alt="git" />
+                  </a>
+                  <a href="https://id.unity.com/" className="py-4 max-w-12" target="_blank">
+                    <img src="./unity-logo.png" alt="unity" />
                   </a>
                 </div>
                 <h1 className="font-extrabold text-3xl">Other <span className="text-green-400"> Tools</span></h1>

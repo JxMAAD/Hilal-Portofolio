@@ -40,7 +40,7 @@ export const Project = () => {
                 </a>
               </div>
             </div>
-            <div className="mb-12 lg:w-1/3 border border-green-400 shadow-green-600 rounded-md shadow">
+            <div className="mb-12 lg:w-1/3 border border-green-400 shadow-green-600 rounded-md shadow" data-aos="fade-up" data-aos-duration="1000">
               <div className="rounded-md overflow-hidden ">
                 <img src="./Personalweb.png" className="h-full" alt="foto-kelas" width="w-full" />
               </div>
@@ -101,6 +101,43 @@ export const Project = () => {
               </div>
               <div className="my-4 mx-3 mb-7">
                 <a href="https://www.tinkercad.com/things/caj06V8LGUO-smooth-blorr-crift?sharecode=DAjK9ryFf9Nfu6HUl9j5kWFV5y7DioWd3OdZe2r4FeI" target="_blank" className="px-7 py-3 bg-green-400 font-medium text-lg rounded-md hover:bg-green-600">
+                  Lihat
+                </a>
+              </div>
+            </div>
+            <div className="mb-12 lg:w-1/3 border border-green-400 shadow-green-600 rounded-md shadow" data-aos="fade-up" data-aos-duration="1000">
+              <div className="rounded-md overflow-hidden ">
+                <img src="./in-hale-image.png" className="h-full" alt="foto-kelas" width="w-full" />
+              </div>
+              <h3 className="font-bold mb-3 mt-6 text-2xl px-2">My project global game jam 2026 </h3>
+              <p className="font-extralight leading-relaxed tracking-[2px] px-2">This project was developed during Global Game Jam 2026 to explore and understand how game developer systems work. In this project, I recreated a 3-day, 2-night game called In Hale.</p>
+              <div className="flex gap-x-2 px-2">
+                <div className="py-4 max-w-16 grayscale hover:grayscale-0 transition duration-300 ease-in-out">
+                  <img src="./unity-logo.png" alt="unity" />
+                </div>
+              </div>
+              <div className="my-4 mx-3 mb-7">
+                <a href="https://globalgamejam.org/games/2026/hale-3" target="_blank" className="px-7 py-3 bg-green-400 font-medium text-lg rounded-md hover:bg-green-600">
+                  Lihat
+                </a>
+              </div>
+            </div>
+            <div className="mb-12 lg:w-1/3 border border-green-400 shadow-green-600 rounded-md shadow" data-aos="fade-up" data-aos-duration="1000">
+              <div className="rounded-md overflow-hidden ">
+                <img src="./web-tekom.png" className="h-full" alt="foto-kelas" width="w-full" />
+              </div>
+              <h3 className="font-bold mb-3 mt-6 text-2xl px-2">My project in campus website tekom </h3>
+              <p className="font-extralight leading-relaxed tracking-[2px] px-2">This project was created to help friends in the Computer Engineering Technology study program to monitor each class and to introduce this study program to the public.</p>
+              <div className="flex gap-x-2 px-2">
+                <div className="py-4 max-w-16 grayscale hover:grayscale-0 transition duration-300 ease-in-out">
+                  <img src="./ex-logo.png" alt="express" />
+                </div>
+                <div className="py-3 max-w-16 grayscale hover:grayscale-0 transition duration-300 ease-in-out">
+                  <img src="./ts-logo.png" alt="typescript" />
+                </div>
+              </div>
+              <div className="my-4 mx-3 mb-7">
+                <a href="#" target="_blank" className="px-7 py-3 bg-green-400 font-medium text-lg rounded-md hover:bg-green-600">
                   Lihat
                 </a>
               </div>

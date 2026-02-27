@@ -21,7 +21,7 @@ body {
 }
 
 .hamburger-menu {
-  @apply block w-[33px] h-[3px] bg-primary my-2 
+  @apply block w-[33px] h-[3px] bg-green-400 my-2 
 }
 
 .hamburger-active > span:nth-child(1) {

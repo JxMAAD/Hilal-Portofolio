@@ -28,9 +28,9 @@ export const About: React.FC<AboutProps> = ({ id }) => {
                                 My Name <span className="text-green-300">Hilal Ahmad Mujaddid</span>
                             </h2>
                             <p className="max-w-xl leading-relaxed text-md mb-3 lg:text-lg">
-                                Hello everyone, my name is Hilal Ahmad Mujaddid, I was born in Bogor, I am a student majoring in software and game development and I have made some website development and web design, I am committed to working and can develop experience in the IT field.
+                                Hello everyone, my name is Hilal Ahmad Mujaddid. I was born in Bogor. I am a D4 Computer Engineering Technology student at IPB University Vocational School. I have worked on several website development and web design projects. I am committed to working and expanding my experience in the IT field.
                             </p>
-                            <a href="./CV_Hilal_Ahmad_Mujaddid.pdf" download>
+                            <a href="./CV-Hilal Ahmad Mujaddid-new-2026.pdf" download>
                                 <button className="border px-5 py-2 my-5 hover:bg-green-300 transition duration-300 ease-in-out text-lg">Download CV</button>
                             </a>
                             <a href="https://drive.google.com/drive/folders/1sXGMb3NEQeRwuHJM8AyuhFyON9riK5y8?usp=classroom_web&authuser=0" target="_blank">
@@ -47,7 +47,7 @@ export const About: React.FC<AboutProps> = ({ id }) => {
                             <div className="absolute w-[135px] bg-green-400 shadow left-0 z-10 -bottom-0 rounded-md flex h-7 items-center justify-center font-medium text-md px-2" data-aos="fade-up">
                                 <GiShuttlecock className="w-5" />Badminton
                             </div>
-                            <img src="./hilalahmadmujaddid-2.jpg" alt="image" className="w-[400px] relative top-0 rounded-md lg:w-[500px]" data-aos="flip-left" />
+                            <img src="./hilalahmadmujaddid-2.jpeg" alt="image" className="w-[400px] relative top-0 rounded-md lg:w-[500px]" data-aos="flip-left" />
                         </div>
                     </div>
                 </div>
