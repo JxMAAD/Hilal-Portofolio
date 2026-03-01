@@ -113,7 +113,7 @@ export const Project = () => {
               <p className="font-extralight leading-relaxed tracking-[2px] px-2">This project was developed during Global Game Jam 2026 to explore and understand how game developer systems work. In this project, I recreated a 3-day, 2-night game called In Hale.</p>
               <div className="flex gap-x-2 px-2">
                 <div className="py-4 max-w-16 grayscale hover:grayscale-0 transition duration-300 ease-in-out">
-                  <img src="./unity-logo.png" alt="unity" />
+                  <img src="./Unity-logo.png" alt="unity" />
                 </div>
               </div>
               <div className="my-4 mx-3 mb-7">

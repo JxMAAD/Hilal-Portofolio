@@ -79,7 +79,7 @@ export const Skills = () => {
                     <img src="./git-logo-removebg-preview.png" alt="git" />
                   </a>
                   <a href="https://id.unity.com/" className="py-4 max-w-12" target="_blank">
-                    <img src="./unity-logo.png" alt="unity" />
+                    <img src="./Unity-logo.png" alt="unity" />
                   </a>
                 </div>
                 <h1 className="font-extrabold text-3xl">Other <span className="text-green-400"> Tools</span></h1>
